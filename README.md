@@ -147,8 +147,10 @@ Dostępne elementy wizualizacji:
 ## Zrzut ekranu interfejsu
 
 ---
-<img width="467" height="282" alt="63bfdc99-883d-482f-a4a0-70332c0d01b2" src="https://github.com/user-attachments/assets/568d28c0-23dc-403a-a5b8-569e7fa59ae5" />
+
 <img width="378" height="245" alt="8b15736b-a4b3-4951-bff4-45e104e3bc72" src="https://github.com/user-attachments/assets/1a5b58d9-81b4-4b6a-9ecb-76b89329c606" />
+<img width="467" height="282" alt="63bfdc99-883d-482f-a4a0-70332c0d01b2" src="https://github.com/user-attachments/assets/568d28c0-23dc-403a-a5b8-569e7fa59ae5" />
+
 
 
 
